@@ -1,0 +1,18 @@
+/* Define your CSS styles here */
+h1 {
+    text-align: center;
+}
+
+form {
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin: 5px;
+    font-size: 1.2em;
+}
